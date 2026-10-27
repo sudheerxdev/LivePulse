@@ -1,0 +1,6 @@
+{
+  "name": "LivePulse - Real-time Q&A & Live Polling",
+  "description": "Live interactive Q&A and real-time polling tool for events, meetups, and conferences with presenter mode and duplicate vote prevention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
