@@ -191,8 +191,3 @@ npm start
 - **Multiple Simultaneous Polls**: Group polls into structured agendas with speaker timer integration.
 
 ---
-
-## 🤖 AI Tools Used
-
-- **Google AI Studio Build & Gemini Models**: Used for scaffolding the unified full-stack architecture, validating edge-case unit test scenarios for HTTP 409 Conflict prevention, and refining accessible projector high-contrast UI design.
-# LivePulse
